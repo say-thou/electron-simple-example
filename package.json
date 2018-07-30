@@ -1,0 +1,18 @@
+{
+  "name": "electron-simple-example",
+  "version": "1.0.0",
+  "description": "An Electron simple example",
+  "main": "./src/main.js",
+  "scripts": {
+    "start": "electron . "
+  },
+  "author": "say-thou",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^2.0.5"
+  },
+  "dependencies": {
+    "moment": "^2.22.2"
+  },
+  "keywords": ["electron"]
+}
